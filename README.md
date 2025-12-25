@@ -63,33 +63,63 @@
 
 ## 🎨 CSS Documentation / Tài Liệu CSS
 
-### Getting Started / Bắt Đầu
+### Fundamentals / Cơ Bản
 
-- [CSS Introduction](css/css-introduction.md) - Introduction to CSS / Giới thiệu về CSS
+- [CSS Introduction](css/css-introduction.md) (Lesson 1) - Introduction to CSS / Giới thiệu về CSS
+- [CSS Box Model](css/css-box-model.md) (Lesson 2) - Box Model / Mô hình hộp
+- [CSS Selectors](css/css-selectors.md) (Lesson 3) - Selectors / Bộ chọn
+- [CSS Nesting](css/css-nesting.md) (Lesson 4) - Nesting / Lồng nhau
+- [CSS Cascade](css/css-cascade.md) (Lesson 5) - The Cascade / Tầng
+- [CSS Specificity](css/css-specificity.md) (Lesson 6) - Specificity / Độ ưu tiên
+- [CSS Inheritance](css/css-inheritance.md) (Lesson 7) - Inheritance / Kế thừa
 
-### Core Concepts / Khái Niệm Cốt Lõi
+### Styling & Visuals / Định Dạng & Hình Ảnh
 
-- [CSS Selectors](css/css-selectors.md) - CSS selectors guide / Hướng dẫn về bộ chọn CSS
-- [CSS Cascade](css/css-cascade.md) - Understanding the cascade / Hiểu về tầng CSS
-- [CSS Specificity](css/css-specificity.md) - Specificity rules / Quy tắc độ ưu tiên
-- [CSS Inheritance](css/css-inheritance.md) - Property inheritance / Kế thừa thuộc tính
-
-### Box Model / Mô Hình Hộp
-
-- [CSS Box Model](css/css-box-model.md) - Understanding the box model / Hiểu về mô hình hộp
-
-### Styling / Định Dạng
-
-- [CSS Color](css/css-color.md) - Working with colors / Làm việc với màu sắc
-- [CSS Sizing Units](css/css-sizing-units.md) - Units and measurements / Đơn vị và đo lường
+- [CSS Color](css/css-color.md) (Lesson 8) - Colors / Màu sắc
+- [CSS Sizing Units](css/css-sizing-units.md) (Lesson 9) - Sizing Units / Đơn vị đo
+- [CSS Custom Properties](css/css-custom-properties.md) (Lesson 14) - Variables / Biến CSS
+- [CSS Borders](css/css-borders.md) (Lesson 18) - Borders / Viền
+- [CSS Shadows](css/css-shadows.md) (Lesson 19) - Shadows / Bóng
+- [CSS Backgrounds](css/css-backgrounds.md) (Lesson 36) - Backgrounds / Nền
+- [CSS Gradients](css/css-gradients.md) (Lesson 27) - Gradients / Dải màu
+- [CSS Filters](css/css-filters.md) (Lesson 29) - Filters / Bộ lọc
+- [CSS Blend Modes](css/css-blend-modes.md) (Lesson 30) - Blend Modes / Hòa trộn màu
+- [CSS Shapes & Masks](css/css-shapes-and-masks.md) (Lesson 26) - Shapes & Masks / Hình dạng & Mặt nạ
 
 ### Layout / Bố Cục
 
-- [CSS Layout](css/css-layout.md) - Layout techniques / Kỹ thuật bố cục
+- [CSS Layout](css/css-layout.md) (Lesson 10) - Layout Methods / Các phương pháp bố cục
+- [CSS Flexbox](css/css-flexbox.md) (Lesson 11) - Flexbox
+- [CSS Grid](css/css-grid.md) (Lesson 12) - Grid
+- [CSS Spacing](css/css-spacing.md) (Lesson 15) - Spacing / Khoảng cách
+- [CSS Logical Properties](css/css-logical-properties.md) (Lesson 13) - Logical Properties / Thuộc tính logic
+- [CSS Z-index](css/css-z-index.md) (Lesson 22) - Z-index & Stacking / Thứ tự xếp chồng
+- [CSS Overflow](css/css-overflow.md) (Lesson 35) - Overflow / Xử lý tràn
+- [CSS Container Queries](css/css-container-queries.md) (Lesson 39) - Container Queries / Truy vấn vùng chứa
+
+### Components & Interaction / Thành Phần & Tương Tác
+
+- [CSS Pseudo-elements](css/css-pseudo-elements.md) (Lesson 16) - Pseudo-elements / Phần tử giả
+- [CSS Pseudo-classes](css/css-pseudo-classes.md) (Lesson 17) - Pseudo-classes / Lớp giả
+- [CSS Focus](css/css-focus.md) (Lesson 20) - Focus Management / Quản lý tiêu điểm
+- [CSS Cursors](css/css-cursors.md) (Lesson 21) - Cursors / Con trỏ
+- [CSS Anchor Positioning](css/css-anchor-positioning.md) (Lesson 23) - Anchor Positioning / Định vị neo
+- [CSS Popover](css/css-popover.md) (Lesson 24) - Popover & Dialog / Hộp thoại
+- [CSS Lists](css/css-lists.md) (Lesson 31) - Lists / Danh sách
+- [CSS Counters](css/css-counters.md) (Lesson 32) - Counters / Bộ đếm
+- [CSS Text & Typography](css/css-text-typography.md) (Lesson 37) - Typography / Kiểu chữ
+
+### Animation & Motion / Chuyển Động
+
+- [CSS Transitions](css/css-transitions.md) (Lesson 33) - Transitions / Chuyển đổi
+- [CSS Animations](css/css-animations.md) (Lesson 28) - Animations / Hoạt ảnh
+- [CSS View Transitions](css/css-view-transitions.md) (Lesson 34) - View Transitions / Chuyển đổi khung nhìn
+- [CSS Scroll-driven Animations](css/css-scroll-driven-animations.md) (Lesson 38) - Scroll Animations / Hoạt ảnh cuộn
 
 ### Advanced / Nâng Cao
 
-- [CSS Nesting](css/css-nesting.md) - CSS nesting / Lồng CSS
+- [CSS Functions](css/css-functions.md) (Lesson 25) - Functions / Hàm CSS
+- [CSS Conclusion](css/css-conclusion.md) (Lesson 40) - Conclusion / Kết luận
 
 ---
 
