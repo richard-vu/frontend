@@ -8,6 +8,7 @@
 
 - [HTML Documentation](#-html-documentation--tài-liệu-html)
 - [CSS Documentation](#-css-documentation--tài-liệu-css)
+- [Responsive Design Documentation](#-responsive-design-documentation--tài-liệu-thiết-kế-đáp-ứng)
 - [JavaScript Documentation](#-javascript-documentation--tài-liệu-javascript)
 
 ---
@@ -123,6 +124,42 @@
 
 ---
 
+## 📱 Responsive Design Documentation / Tài Liệu Thiết Kế Đáp Ứng
+
+### Introduction / Giới Thiệu
+
+- [Welcome](learn-responsive-design/responsive-welcome.md) - Welcome to the Course / Chào mừng đến với khóa học
+- [History](learn-responsive-design/responsive-history.md) - History of Responsive Design / Lịch sử thiết kế đáp ứng
+
+### Core Concepts / Các Khái Niệm Cốt Lõi
+
+- [Media Queries](learn-responsive-design/responsive-media-queries.md) - CSS Media Queries / Truy vấn phương tiện
+- [Media Features](learn-responsive-design/responsive-media-features.md) - Media Features / Tính năng phương tiện
+- [Macro Layouts](learn-responsive-design/responsive-macro-layouts.md) - Page Layouts / Bố cục vĩ mô
+- [Micro Layouts](learn-responsive-design/responsive-micro-layouts.md) - Component Layouts / Bố cục vi mô
+- [UI Patterns](learn-responsive-design/responsive-ui-patterns.md) - Common Patterns / Các mẫu giao diện
+
+### Images & Icons / Hình Ảnh & Biểu Tượng
+
+- [Responsive Images](learn-responsive-design/responsive-images.md) - Optimization / Tối ưu hóa hình ảnh
+- [Picture Element](learn-responsive-design/responsive-picture-element.md) - Art Direction / Chỉ đạo nghệ thuật
+- [Icons](learn-responsive-design/responsive-icons.md) - SVG Icons / Biểu tượng SVG
+
+### Advanced Topics / Chủ Đề Nâng Cao
+
+- [Interaction](learn-responsive-design/responsive-interaction.md) - Input Mechanisms / Cơ chế nhập liệu
+- [Theming](learn-responsive-design/responsive-theming.md) - Dark Mode & Preferences / Chủ đề & Sở thích
+- [Typography](learn-responsive-design/responsive-typography.md) - Fluid Typography / Kiểu chữ linh hoạt
+- [Accessibility](learn-responsive-design/responsive-accessibility.md) - A11y / Khả năng tiếp cận
+- [Internationalization](learn-responsive-design/responsive-internationalization.md) - I18n / Quốc tế hóa
+- [Screen Configurations](learn-responsive-design/responsive-screen-configurations.md) - Foldables / Cấu hình màn hình
+
+### Conclusion / Kết Luận
+
+- [Conclusion](learn-responsive-design/responsive-conclusion.md) - Next Steps / Các bước tiếp theo
+
+---
+
 ## ⚡ JavaScript Documentation / Tài Liệu JavaScript
 
 ### Getting Started / Bắt Đầu
@@ -225,4 +262,4 @@ Educational use only / Chỉ sử dụng cho mục đích giáo dục
 
 ---
 
-**Last Updated / Cập Nhật Lần Cuối:** December 24, 2025 / 24 tháng 12, 2025
+**Last Updated / Cập Nhật Lần Cuối:** December 25, 2025 / 25 tháng 12, 2025
