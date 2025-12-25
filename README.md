@@ -10,6 +10,7 @@
 - [CSS Documentation](#-css-documentation--tài-liệu-css)
 - [Responsive Design Documentation](#-responsive-design-documentation--tài-liệu-thiết-kế-đáp-ứng)
 - [JavaScript Documentation](#-javascript-documentation--tài-liệu-javascript)
+- [TypeScript Documentation](#-typescript-documentation--tài-liệu-typescript)
 
 ---
 
@@ -212,6 +213,42 @@
 ### Reference / Tham Khảo
 
 - [JavaScript Appendix](js/js-appendix.md) - Additional resources / Tài nguyên bổ sung
+
+---
+
+## 📘 TypeScript Documentation / Tài Liệu TypeScript
+
+### Basics / Cơ Bản
+
+- [Lesson 1: Introduction](typescript/lesson-01-introduction.md) - Introduction to TypeScript / Giới thiệu về TypeScript
+- [Lesson 2: Setup Environment](typescript/lesson-02-setup-environment.md) - Setting up Development Environment / Cài đặt môi trường phát triển
+- [Lesson 3: Basic Types](typescript/lesson-03-basic-types.md) - Basic Types / Các kiểu dữ liệu cơ bản
+
+### Core Concepts / Các Khái Niệm Cốt Lõi
+
+- [Lesson 4: Functions](typescript/lesson-04-functions.md) - Functions / Hàm
+- [Lesson 5: Objects & Interfaces](typescript/lesson-05-objects-interfaces.md) - Objects & Interfaces / Đối tượng và Giao diện
+- [Lesson 6: Union Types & Narrowing](typescript/lesson-06-union-types.md) - Union Types & Narrowing / Kiểu hợp & Thu hẹp kiểu
+
+### Classes & OOP / Lớp & OOP
+
+- [Lesson 7: Classes](typescript/lesson-07-classes.md) - Classes / Lớp
+- [Lesson 8: Inheritance & Abstract Classes](typescript/lesson-08-inheritance-abstract-classes.md) - Inheritance & Abstract Classes / Kế thừa và Lớp trừu tượng
+
+### Generics / Generics
+
+- [Lesson 9: Generics Basics](typescript/lesson-09-generics-basics.md) - Generics Basics / Cơ bản về Generics
+- [Lesson 10: Generic Constraints](typescript/lesson-10-generic-constraints.md) - Generic Constraints / Ràng buộc trong Generics
+
+### Advanced Types / Các Kiểu Nâng Cao
+
+- [Lesson 11: Utility Types](typescript/lesson-11-utility-types.md) - Utility Types / Các kiểu tiện ích
+- [Lesson 12: Advanced Type Manipulation](typescript/lesson-12-advanced-type-manipulation.md) - Advanced Type Manipulation / Thao tác kiểu nâng cao
+
+### Ecosystem / Hệ Sinh Thái
+
+- [Lesson 13: TS with React](typescript/lesson-13-ts-with-react.md) - TS with React / Sử dụng TypeScript với React
+- [Lesson 14: TS with Backend](typescript/lesson-14-ts-with-backend.md) - TS with Backend / Sử dụng TypeScript với Backend
 
 ---
 
